@@ -1,4 +1,5 @@
 @Test
 public void test1(){
-  System.out.printf("helloword");
-}
+  System.out.printf("helloworld");
+  System.out.prinrf("and my home");
+  }
