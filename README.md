@@ -1,2 +1,2 @@
 # traveller
-Always on the road!
+永远不曾停下来
